@@ -13,7 +13,7 @@
 6. Pull Requests
 
 ## We're Slackers here
-[Let's get this party started](opim3224.slack.com)
+[Let's get this party started](https://opim3224.slack.com)
 
 ## Practice Assignment
 [This should help](https://www.markdownguide.org/cheat-sheet/)
