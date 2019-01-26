@@ -13,7 +13,10 @@
 6. Pull Requests
 
 ## We're Slackers here
+[Let's get this party started](opim3224.slack.com)
 
 ## Practice Assignment
+[This should help](https://www.markdownguide.org/cheat-sheet/)
 
 ## Who are you? (Who who who who)
+![sharing is caring](https://media.giphy.com/media/HouaI4pOOIXq8/200.gif)
