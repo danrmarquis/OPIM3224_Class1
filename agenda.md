@@ -3,6 +3,7 @@
 ## Welcome!
 
 ## Syllabus Overview (brief I promise)
+[Class Syllabus](https://docs.google.com/document/d/1z5Gq9Cn6L1-l7E7Z27VJYSA5TyQI8ArCENu9nolOO6U/edit?usp=sharing)
 
 ## Introduction to GitHub
 1. Class Repository
