@@ -13,6 +13,8 @@
 5. You've been Committed
 6. Pull Requests
 
+[GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
 ## We're Slackers here
 [Let's get this party started](https://opim3224.slack.com)
 
