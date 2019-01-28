@@ -18,7 +18,7 @@ I like web design and development and know a few languages including:
 - HTML
 - CSS
 - SQL
-And have worked with ASP.NET
+- And have worked with ASP.NET
 
 Also, I have a dog and his name is Clutch.
 ![Clutch](Clutch.jpg)
