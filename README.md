@@ -6,7 +6,7 @@
 ## Interests
 1. Sports Fan (*NBA,NFL,MLB*)
 2. Video Games (*Fortnite,Call of Duty, etc.*)
-3. Music (*Hip Hop*)
+3. Music (*Hip Hop,R&B,A little Country*)
 ## School (*UConn*)
 1. MIS major
 2. Transfered from NCC
