@@ -20,5 +20,5 @@ I like web design and development and know a few languages including:
 - SQL
 And have worked with ASP.NET
 
-This is my dog
+Also, I have a dog and his name is Clutch.
 ![Clutch](Clutch.jpg)
