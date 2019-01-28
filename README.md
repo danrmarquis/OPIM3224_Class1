@@ -45,4 +45,3 @@ These are the 4 languages I speak in order of fluency:
 3. Mandarin Chinese (Basic)
 4. Spanish (Basic)
 
-This is our first assignment!
