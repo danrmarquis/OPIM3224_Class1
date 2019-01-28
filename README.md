@@ -1,3 +1,3 @@
 # Bobby's Introduction and Info
-## Hello
-
+## Background 
+Born and raised in Stamford,CT
