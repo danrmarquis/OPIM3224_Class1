@@ -7,7 +7,7 @@
 1. Sports Fan (*NBA,NFL,MLB*)
 2. Video Games (*Fortnite,Call of Duty, etc.*)
 3. Music (*Hip Hop,R&B,A little Country*)
-## School (*UConn*) !(https://brand.uconn.edu/wp-content/uploads/sites/1060/2015/08/husky-logo-lockup-circleR.jpg)
+## School (*UConn*) ![Logo](https://brand.uconn.edu/wp-content/uploads/sites/1060/2015/08/husky-logo-lockup-circleR.jpg)
 1. MIS major
 2. Transfered from NCC
 3. Graduating Spring 2019
